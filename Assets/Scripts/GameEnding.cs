@@ -53,7 +53,7 @@ public class GameEnding : MonoBehaviour{
         // el temporizador se incrementa en el tiempo
         m_Timer += Time.deltaTime;
         // modificar el alpha del canvas, 0 cuando el temporizador es 0 y 1 cuando el temporizador es mayor a 0
-        exitBackgroundImageCanvasGroup.alpha = m_Timer / fadeDuration; // la imagen se desvanene cuando el personaje llega al trigger
+        imageCanvasGroup.alpha = m_Timer / fadeDuration; // la imagen se desvanene cuando el personaje llega al trigger
         // salir del juego cuando el desvanecimiento es completado
         if(m_Timer > fadeDuration + displayImageDuration){ // + 1f para anadir un segundo mas en desvanecer la imagen
             // reiniciar el juego o volver al menu
