@@ -36,7 +36,7 @@ El video se puede encontrar en YouTube en el siguiente link:
 
 ## Aprendizaje
 - [Duolingo](https://es.duolingo.com/course/en/es/Aprender-ingl%C3%A9s)
-- [Unity Learn](https://learn.unity.com/)
+- [Unity Documentation](https://docs.unity.com/)
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
 
