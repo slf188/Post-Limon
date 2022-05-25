@@ -8,6 +8,8 @@ public class PlayerMovement : MonoBehaviour{
     Animator m_Animator; // Animator nos permite acceder al componente Animator del objeto
     // m_Movement es global para que se pueda utilizar ya sea en Start o en Update
     Rigidbody m_Rigidbody; // RigidBody nos permite acceder al componente RigidBody del objeto
+    // para acceder al audio de los pasos del jugador
+    AudioSource m_AudioSource;
     Vector3 m_Movement; // // Vector3 es un vector de 3 dimensiones para manejar el movimiento del jugador
     Quaternion m_Rotation = Quaternion.identity; // almacenar las rotaciones del jugador
 
@@ -18,6 +20,8 @@ public class PlayerMovement : MonoBehaviour{
         m_Animator = GetComponent<Animator>();
         // Obtenemos el componente RigidBody del objeto
         m_Rigidbody = GetComponent<Rigidbody>();
+        // Obtenemos el componente AudioSource del objeto
+        m_AudioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -38,6 +42,16 @@ public class PlayerMovement : MonoBehaviour{
         bool isWalking = hasHorizontalInput || hasVerticalInput;
         // modificar el parametro de si el jugador esta caminando
         m_Animator.SetBool("IsWalking", isWalking);
+        // revisar si el personaje esta caminando
+        if(isWalking){
+            // para que el audio no suene en cada frame:
+            if(!m_AudioSource.isPlaying){
+                // reproducir el audio
+                m_AudioSource.Play();
+            }
+        } else {
+            m_AudioSource.Stop();
+        }
         // calcular el vector hacia adelante
         Vector3 desiredForward = Vector3.RotateTowards(
             transform.forward, // parametro vector3
