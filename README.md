@@ -24,6 +24,16 @@ John Lemon es un proyecto final para la asignatura de Programación Estructurada
 - [MarkDown](https://www.markdownguide.org/)
 - [Shell](https://en.wikipedia.org/wiki/Shell_script)
 ## Instalación
+Para instalar el repositorio se necesita el software Git.
+
+En el terminal de la computadora escribir los siguientes comandos:
+
+```zh
+$ cd [ubicación deseada en la computadora para ubicar la carpeta]
+$ git init
+$ git clone [el codigo HTTPS del repositorio]
+```
+En caso de que no se disponga de Git en la computadora se puede instalar el repositorio en forma de zip, presionando en donde dice "Download ZIP".
 
 ## Uso
 
