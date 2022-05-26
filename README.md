@@ -19,7 +19,8 @@ John Lemon es un proyecto final para la asignatura de Programación Estructurada
 - [Unix](https://en.wikipedia.org/wiki/Unix)
 - [Neovim](https://neovim.io/)
 - [Markdown All in One](https://markdown-all-in-one.github.io/docs/guide/#features)
-- [WebGL](https://docs.unity3d.com/Packages/com.unity.connect.share@1.2/manual/index.html)
+- [WebGL](https://get.webgl.org/)
+- [Unity Play](https://play.unity.com/)
 ## Lenguajes de programación utilizados
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [MarkDown](https://www.markdownguide.org/)
@@ -37,6 +38,9 @@ $ git clone [el codigo HTTPS del repositorio]
 En caso de que no se disponga de Git en la computadora se puede instalar el repositorio en forma de zip, presionando en donde dice "Download ZIP".
 
 ## Uso
+Para utilizar el juego es necesario tener WebGL en la computadora, entrar al siguiente link para jugar el juego:
+
+[Demo](https://play.unity.com/p/webgl-605/edit)
 
 ## Referencias
 - [Stack Overflow](https://stackoverflow.com/)
