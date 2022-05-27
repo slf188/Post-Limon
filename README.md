@@ -45,7 +45,9 @@ En caso de que no se disponga de Git en la computadora se puede instalar el repo
 ## Uso
 Para utilizar el juego es necesario tener WebGL en la computadora, entrar al siguiente link para jugar el juego:
 
-[Demo](https://play.unity.com/p/webgl-605/edit)
+[Post Limon](https://play.unity.com/p/webgl-605/edit)
+
+![posty](posty.gif)
 
 ## Referencias
 - [Stack Overflow](https://stackoverflow.com/)
