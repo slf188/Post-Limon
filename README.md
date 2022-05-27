@@ -40,6 +40,8 @@ $ git clone [el codigo HTTPS del repositorio]
 ```
 En caso de que no se disponga de Git en la computadora se puede instalar el repositorio en forma de zip, presionando en donde dice "Download ZIP".
 
+![clonar](image.png)
+
 ## Uso
 Para utilizar el juego es necesario tener WebGL en la computadora, entrar al siguiente link para jugar el juego:
 
