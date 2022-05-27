@@ -51,12 +51,10 @@ Para utilizar el juego es necesario tener WebGL en la computadora, entrar al sig
 - [Stack Overflow](https://stackoverflow.com/)
 - [Unity User Manual](https://docs.unity3d.com/Manual/index.html)
 - [Unity C# Reference](https://github.com/Unity-Technologies/UnityCsReference)
+- [Unity Documentation](https://docs.unity.com/)
+- [Unity Answers](https://answers.unity.com/index.html)
 ## Video
 El video se puede encontrar en YouTube en el siguiente link:
-
-## Aprendizaje
-- [Duolingo](https://es.duolingo.com/course/en/es/Aprender-ingl%C3%A9s)
-- [Unity Documentation](https://docs.unity.com/)
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
 
