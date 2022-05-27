@@ -1,4 +1,4 @@
-# John Lemon
+# Post Limon
 ## Descripción
 John Lemon es un proyecto final para la asignatura de Programación Estructurada y Funcional, en donde se aplican los conceptos vistos en la asignatura en un juego hecho completamente en el Motor Gráfico [Unity](https://unity.com/).
 
