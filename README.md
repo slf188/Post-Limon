@@ -21,6 +21,8 @@ John Lemon es un proyecto final para la asignatura de Programación Estructurada
 - [Markdown All in One](https://markdown-all-in-one.github.io/docs/guide/#features)
 - [WebGL](https://get.webgl.org/)
 - [Unity Play](https://play.unity.com/)
+- [Unity Hub](https://unity.com/unity-hub)
+- [Unity Platform](https://unity.com/products/unity-platform)
 ## Lenguajes de programación utilizados
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [MarkDown](https://www.markdownguide.org/)
@@ -31,6 +33,7 @@ Para instalar el repositorio se necesita el software Git.
 En el terminal de la computadora escribir los siguientes comandos:
 
 ```zh
+$ ls
 $ cd [ubicación deseada en la computadora para ubicar la carpeta]
 $ git init
 $ git clone [el codigo HTTPS del repositorio]
