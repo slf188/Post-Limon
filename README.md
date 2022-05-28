@@ -23,6 +23,7 @@ Post Limon es un proyecto final para la asignatura, en donde se aplican los conc
 - [Unity Play](https://play.unity.com/)
 - [Unity Hub](https://unity.com/unity-hub)
 - [Unity Platform](https://unity.com/products/unity-platform)
+- [GIPHY Capture](https://giphy.com/apps/giphycapture)
 ## Lenguajes de programación utilizados
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [MarkDown](https://www.markdownguide.org/)
