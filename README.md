@@ -26,6 +26,7 @@ Post Limon es un proyecto final para la asignatura, en donde se aplican los conc
 - [GIPHY Capture](https://giphy.com/apps/giphycapture)
 ## Lenguajes de programación utilizados
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [Python](https://www.python.org/)
 - [MarkDown](https://www.markdownguide.org/)
 - [Shell](https://en.wikipedia.org/wiki/Shell_script)
 ## Instalación
@@ -39,12 +40,13 @@ $ cd [ubicación deseada en la computadora para ubicar la carpeta]
 $ git init
 $ git clone [el codigo HTTPS del repositorio]
 ```
-En caso de que no se disponga de Git en la computadora se puede instalar el repositorio en forma de zip, presionando en donde dice "Download ZIP".
+En caso de que no se disponga de Git en la computadora, se puede instalar el repositorio en forma de ZIP, presionando en donde dice "Download ZIP".
 
 ![clonar](image.png)
 
 ## Uso
 Para utilizar el juego es necesario:
+- [x] Tener una cuenta Unity
 - [x] Comprobar si el navegador de uso soporta WebGL
 - [x] Habilitar JavaScript en el navegador
  
@@ -63,6 +65,11 @@ Entrar al siguiente link para jugar el juego:
 ## Video
 El video se puede encontrar en YouTube en el siguiente link:
 [Post Limon](https://youtu.be/l2e7CClw6Ds)
+
+O se puede escanear el siguiente código QR:
+
+![qr](video_qr.png)
+
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
 
