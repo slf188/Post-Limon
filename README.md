@@ -71,7 +71,7 @@ O se puede escanear el siguiente código QR:
 ![qr](video_qr.png)
 
 ## Licencia
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
 
 ## Autor
 [Felipe Vallejo](https://www.linkedin.com/in/felipe-vallejo-200188/)
